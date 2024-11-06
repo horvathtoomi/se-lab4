@@ -1,0 +1,3 @@
+# Inicializing spaceship without torpedos
+GT4500,2,0,10,0
+TORPEDO,SINGLE
